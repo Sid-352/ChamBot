@@ -1,0 +1,14 @@
+# personal data scraped
+_ignore/
+.env
+
+# processed information
+data/
+flattened_data/
+output/
+models/
+
+# to not upload Exporter on my own repo
+DiscordChatExporter/
+
+
