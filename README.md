@@ -16,7 +16,7 @@ The system consists of six primary phases:
 The system requires a **.env** file in the root directory containing the `USER_ID`. Refer to **.env.example** for the template.
 
 ## Execution
-The final output is a Q3_K_M GGUF file. Users execute this file locally via LM Studio using the Alpaca prompt format. A specific system prompt enforces persona constraints and suppresses standard AI assistant behaviors.
+The final output is a GGUF file. One can execute this file locally via LM Studio using the Alpaca prompt format. A specific system prompt enforces the behavioural constraints and suppresses standard AI assistant patterns.
 
 ## Documentation
 Refer to **[GUIDE.MD](https://github.com/Sid-352/ChamBot/blob/main/GUIDE.md)** for technical implementation details, hardware specifications, and cloud infrastructure strategies. Refer to **[PROJECT_MAP.md](https://github.com/Sid-352/ChamBot/blob/main/PROJECT_MAP.md)** for directory structure and script functions.
